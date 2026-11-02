@@ -176,6 +176,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Cryptomator](https://cryptomator.org/) - Client-side encryption for cloud storage.
 - [gocryptfs](https://github.com/rfjakob/gocryptfs) - Encrypted overlay filesystem for Linux and macOS.
 - [Magic Wormhole](https://magic-wormhole.readthedocs.io/) - Securely transfer files and text between computers.
+- [NO SUS](https://nosus.foo/) - Free tool for notes and files that open once and are then deleted, encrypted in the browser with the key kept in the link fragment, no account needed.
 - [OnionShare](https://onionshare.org/) - Private file sharing through Tor onion services.
 - [Picocrypt](https://github.com/Picocrypt/Picocrypt) - Small file encryption tool designed for simplicity.
 - [rclone crypt](https://rclone.org/crypt/) - Encrypted remote storage layer for rclone.
